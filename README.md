@@ -1,6 +1,3 @@
-Here is a clean, developer-style `README.md` without emojis, buzzwords, or typical template filler.
-
-```markdown
 # Neon Sketch Reveal
 
 A Python script that generates a dynamic neon particle and edge-sketch reveal animation from an image using OpenCV and NumPy.
